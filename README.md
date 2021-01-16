@@ -1,2 +1,2 @@
-# Project-Neurorehabilitation-
+# Project-Neurorehabilitation
 Hand-Exoskeleton
