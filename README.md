@@ -3,3 +3,5 @@ Topic: Soft Hand-Exoskeleton;
 Contributors: Patrick Hinz and An Binh Vu; 
 Supervisors: Nicolas Berberich, Natalia Paredes, Ashish Rao, Constantin Uhde;
 Chair for Cognitive Systems, Technical University of Munich
+
+Based on EduExo, a robotic exeskeleton kit, we integrate it with soft actuators for grasping.
